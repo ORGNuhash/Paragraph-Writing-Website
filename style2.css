@@ -1,0 +1,20 @@
+::selection{
+	background-color: red;
+	color: white;
+}
+::-moz-selection{
+	background-color: red;
+	color: white;
+}
+::-o-slection{
+	background-color: red;
+	color: white;
+}
+::-webkit-selection{
+	background-color: red;
+	color: white;
+}
+::-ms-selection{
+	background-color: red;
+	color: white;
+}

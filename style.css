@@ -1,0 +1,32 @@
+body{
+	font-size: 30px;
+	padding: 30px;
+}
+::selection {
+	background-color: red;
+	color: white;
+}	
+input, textarea{
+	padding: 20px;
+	font-size: 20px;
+	margin: 5px 0;
+}
+::-webkit-input-placeholder{
+	color: #90C3D4;
+}
+::-ms-textarea-placeholder{
+	color: #90C3D4;
+}
+::-moz-placeholder{
+	color: #90C3D4;
+	opacity: 1;
+}
+::-moz-placeholder{
+	color: red;
+	opacity: 1;
+}
+::-o-placeholder{
+	color: blue;
+	opacity: 1;
+}
+
